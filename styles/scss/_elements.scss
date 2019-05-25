@@ -1,0 +1,8 @@
+//styling for bare HTML elements
+
+/*
+Secure correct behavior in older browsers by setting the CSS display property for these HTML elements to block.
+*/
+header, section, footer, aside, nav, main, article, figure {
+    display: block; 
+  }
